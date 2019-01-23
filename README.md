@@ -4,7 +4,7 @@
 
 This repository contains the presentations that I have made for the Blockchain Laboratory of Toronto (BLT) animated and presented in HTML and JavaScript for viewing on browsers.
 
-![](header.png)
+![](Sample_Slide.png)
 
 ## Viewing
 
